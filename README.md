@@ -37,7 +37,6 @@ This demonstrates the cconnection of MySQL database and Node.js to create a simp
 
    // Question 4 goes here
 
-   
 
    // listen to the server
    const PORT = 3000
@@ -94,6 +93,5 @@ Create a ```GET``` endpoint that retrieves all patients by their first name
 Create a ```GET``` endpoint that retrieves all providers by their specialty
 
 <br>
-
 
 ## NOTE: Do not fork this repository
